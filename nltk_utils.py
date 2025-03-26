@@ -39,4 +39,4 @@ def bag_of_words(tokenized_sentence, all_words):
 # bag = bag_of_words(sentence, words)
 # print(sentence)
 # print(words)
-# print(bag)
+
